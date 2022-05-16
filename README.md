@@ -1,4 +1,4 @@
-# OpenX internship taks - JavaScript
+# OpenX internship task - JavaScript
 
 
 Task 1: Create a data structure which is able to represent the following model (assume that node values
